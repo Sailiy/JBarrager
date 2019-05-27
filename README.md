@@ -1,3 +1,10 @@
+# 重要
+该弹幕库已经使用TypeScript重构，支持NPM安装
+
+github地址：https://github.com/Sailiy/Danmaku-Plus
+
+npm仓库地址：https://www.npmjs.com/package/danmaku-plus
+
 # JBarrager
 项目地址：http://www.rainx.org/2016/12/22/html5-canvas%E5%AE%9E%E7%8E%B0%E9%AB%98%E5%B9%B6%E5%8F%91%E8%A7%86%E9%A2%91%E5%BC%B9%E5%B9%95%E5%8A%9F%E8%83%BD/
 
